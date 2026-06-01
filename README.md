@@ -17,7 +17,7 @@
 
 - 🔭 Currently working as **Sr. Python Full Stack Developer at Delta Airlines**
 - 🌍 Based in **Atlanta, GA**
-- 💼 **8+ years** of IT experience in Fintech, Banking, Aviation, Healthcare & Logistics
+- 💼 IT experience in Fintech, Banking, Aviation, Healthcare & Logistics
 - 🧠 Deep expertise in **Python, Django, FastAPI, Angular, React & AWS**
 - 🤖 Working with **LangChain, AWS Bedrock & LLM-based services** for AI workflows
 - 📊 Strong background in **ETL pipelines, RESTful/GraphQL APIs & Data Engineering**
