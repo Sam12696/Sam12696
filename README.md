@@ -1,6 +1,7 @@
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sam12696&label=Profile%20views&color=0e75b6&style=flat" alt="Sam12696" />
+  <img src="https://img.shields.io/github/followers/Sam12696?label=Followers&style=social" alt="followers" />
 </p>
 
 <!-- Animated Header -->
@@ -89,12 +90,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam12696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sampath's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam12696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sampath's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam12696&theme=tokyonight&hide_border=true" alt="Sampath's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam12696&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sam12696&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam12696&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
@@ -102,7 +112,19 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sam12696&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Sampath's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sam12696&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Sampath's Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sam12696&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Sampath's Trophies All Ranks" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sam12696/Sam12696/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
