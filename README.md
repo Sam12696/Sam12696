@@ -96,7 +96,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam12696&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sam12696&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" width="48%" />
 </p>
 
 ---
@@ -112,11 +111,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sam12696&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Sampath's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sam12696&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Sampath's Trophies Row 1" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sam12696&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Sampath's Trophies All Ranks" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sam12696&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4&rank=-SECRET,-SSS,-SS,-S,-AAA,-AA,-A,-B" alt="Sampath's Trophies Row 2" />
 </p>
 
 ---
